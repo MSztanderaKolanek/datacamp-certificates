@@ -38,6 +38,7 @@ Below is a list of the courses I have completed, covering topics in Python, SQL,
 - Introduction to Data Visualization with Seaborn
 - Understanding Data Visualization
 - Exploratory Data Analysis in Python
+- Introduction to Statistics
 - Introduction to Statistics in Python
 
 ## 📜 Certificates
