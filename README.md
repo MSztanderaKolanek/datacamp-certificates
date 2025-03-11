@@ -41,6 +41,9 @@ Below is a list of the courses I have completed, covering topics in Python, SQL,
 - Introduction to Statistics
 - Introduction to Statistics in Python
 
+### **Other**
+- Understanding Artifical Intelligence
+
 ## 📜 Certificates
 All certificates and statements of accomplishment are stored in this repository. 
 Feel free to explore them!
