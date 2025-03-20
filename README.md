@@ -32,7 +32,7 @@ Below is a list of the courses I have completed, covering topics in Python, SQL,
 ### **Big Data & PySpark**
 - Introduction to PySpark
 - Big Data Fundamentals with PySpark
-- Big Data with PySpark
+- Big Data with PySpark (Track)
 
 ### **Data Visualization & Statistics**
 - Introduction to Data Visualization with Seaborn
@@ -43,6 +43,7 @@ Below is a list of the courses I have completed, covering topics in Python, SQL,
 
 ### **Other**
 - Understanding Artifical Intelligence
+- Web Scraping in Python
 
 ## 📜 Certificates
 All certificates and statements of accomplishment are stored in this repository. 
