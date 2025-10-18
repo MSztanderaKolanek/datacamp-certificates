@@ -1,7 +1,7 @@
 # DataCamp Certificates Repository
 
-This repository contains my certificates and statements of accomplishment from DataCamp. 
-Below is a list of the courses I have completed, covering topics in Python, SQL, Data Science, Machine Learning, and Big Data with PySpark.
+This repository contains my certificates and statements of accomplishment from DataCamp platform. 
+Below there is a list of the courses I have completed, covering topics: Python, SQL, Data Science, Machine Learning, and Big Data with PySpark.
 
 ## 🚀 Courses Completed
 
